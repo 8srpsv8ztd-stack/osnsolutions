@@ -1,3 +1,17 @@
+# Updated company website
+
+This version identifies OSN Solutions Limited, its Cedar Hill, Texas location, small-business IT consulting work, and two app projects in development. App names and detailed features are intentionally not invented.
+
+## Update your existing GitHub repository
+
+Extract this ZIP, open your existing 8srpsv8ztd-stack.github.io repository, and choose Add file → Upload files. Upload ALL files inside the osn-solutions folder, replacing existing files and adding about.html and services.html. Do not upload the enclosing folder or the ZIP. Commit the changes to main.
+
+Keep your existing Pages and DNS settings. Wait for the Pages deployment to finish, then open the live site and check all pages. Confirm the support mailbox receives mail. Test both osnsolutions.com and www.osnsolutions.com using another network before resubmitting enrollment.
+
+This revision is not a guarantee of Apple approval. Use the exact legal organization name in your enrollment and corresponding organization records.
+
+---
+
 # OSN Solutions — GitHub Pages setup
 
 1. Create a PUBLIC repository named `8srpsv8ztd-stack.github.io` under your GitHub account. If you created `osnsolutions.github.io`, rename it in Settings → General.
